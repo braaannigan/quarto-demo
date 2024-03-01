@@ -1,2 +1,2 @@
 # quarto-demo
-- making gh-pages branch
+- making gh-pages branch and adding files
